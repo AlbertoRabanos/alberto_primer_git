@@ -11,3 +11,9 @@ import plotly.express as px
 #import plotly.graph_objects as go
 
 import plotly.figure_factory as ff
+
+x= 15
+y = 5
+z = x*y
+print(z)
+
