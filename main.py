@@ -12,8 +12,12 @@ import plotly.express as px
 
 import plotly.figure_factory as ff
 
-x= 15
+x = 15
 y = 5
 z = x*y
 print(z)
+
+
+z
+
 
