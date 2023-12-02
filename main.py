@@ -25,3 +25,6 @@ import tensorflow as tf
 #crear un df desde el csv 'madrid'
 
 df = pd.read_csv('madrid.csv')
+
+
+#sabadoNoche
