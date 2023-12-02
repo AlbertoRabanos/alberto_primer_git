@@ -28,5 +28,3 @@ df = pd.read_csv('madrid.csv')
 
 
 #PUSH
-
-#PULL
