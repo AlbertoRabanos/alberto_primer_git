@@ -20,6 +20,8 @@ print(z)
 
 print('octubre')
 
+import tensorflow as tf
+
 
 
 #comentario
